@@ -5,7 +5,7 @@
 <img src="https://media.discordapp.net/attachments/855142119223066644/1459200372982812683/image.png?ex=696269bf&is=6961183f&hm=37e2d0cc508bbd7ae26a34445d0f20e37f070984747ba7370bb6045ec053212a&=&format=webp&quality=lossless" style="width: 100px;position:absolute;bottom:0;left:0;"/>
 </div>
 
-<h3> Hi, the name is Aleksa Milić 🌲</h3>
+<h3 align="center"> Hi, the name is Aleksa Milić 🌲</h3>
 
 
 
