@@ -4,7 +4,7 @@
 
 <div style="display:flex;">
   <div align="right">
-    <img src="https://media.discordapp.net/attachments/855142119223066644/1459199338495606836/image.png?ex=696268c8&is=69611748&hm=3382dbf929a3af88c0bc74b3a2c7359d5eb31c60feb12e8c67bb6728299b60d4&=&format=webp&quality=lossless" style="width: 100px;position:absolute;bottom:0;left:0;"/>
+    <img src="" style="width: 100px;position:absolute;bottom:0;left:0;"/>
   </div>
 
   <div align="left">
@@ -12,6 +12,9 @@
   </div>
 </div>
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png](https://media.discordapp.net/attachments/855142119223066644/1459199338495606836/image.png?ex=696268c8&is=69611748&hm=3382dbf929a3af88c0bc74b3a2c7359d5eb31c60feb12e8c67bb6728299b60d4&=&format=webp&quality=lossless))  |  ![]([https://...Ocean.png](https://media.discordapp.net/attachments/855142119223066644/1459200372982812683/image.png?ex=696269bf&is=6961183f&hm=37e2d0cc508bbd7ae26a34445d0f20e37f070984747ba7370bb6045ec053212a&=&format=webp&quality=lossless))
 
 
 
