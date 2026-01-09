@@ -5,7 +5,7 @@
 <img src="https://media.discordapp.net/attachments/855142119223066644/1459200372982812683/image.png?ex=696269bf&is=6961183f&hm=37e2d0cc508bbd7ae26a34445d0f20e37f070984747ba7370bb6045ec053212a&=&format=webp&quality=lossless" style="width: 100px;position:absolute;bottom:0;left:0;"/>
 </div>
 
-<p align="center" hspace="10" style="font-size: 25px;"> Hi, the name is Aleksa Milić 🌲</p>
+<h1 align="center" hspace="10"> Hi, the name is Aleksa Milić 🌲</h1>
 <p align="center">
   <img src="https://img1.picmix.com/output/stamp/normal/2/9/5/0/1660592_710ed.gif" width="200px" align="left"/>
   <img src="https://img1.picmix.com/output/stamp/normal/2/9/5/0/1660592_710ed.gif" width="200px" align="right"/>
