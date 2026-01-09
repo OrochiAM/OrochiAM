@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img1.picmix.com/output/stamp/normal/2/9/5/0/1660592_710ed.gif" width="200px" align="left"/>
-  <p align="top"> Hi, the name is Aleksa Milić 🌲</p>
+  <p align="center"> Hi, the name is Aleksa Milić 🌲</p>
   <img src="https://img1.picmix.com/output/stamp/normal/2/9/5/0/1660592_710ed.gif" width="200px" align="right"/>
 </p>
 
