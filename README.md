@@ -6,9 +6,9 @@
 </div>
 
 <p align="center">
-  <img src="https://img1.picmix.com/output/stamp/normal/2/9/5/0/1660592_710ed.gif"/>
+  <img src="https://img1.picmix.com/output/stamp/normal/2/9/5/0/1660592_710ed.gif" width="50px"/>
   Hi, the name is Aleksa Milić 🌲
-  <img src="https://img1.picmix.com/output/stamp/normal/2/9/5/0/1660592_710ed.gif"/>
+  <img src="https://img1.picmix.com/output/stamp/normal/2/9/5/0/1660592_710ed.gif" width="50px"/>
 </p>
 
 
