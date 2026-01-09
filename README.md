@@ -6,11 +6,11 @@
 </div>
 
 
-<div align="center">
+<p>
   <img src="https://img1.picmix.com/output/stamp/normal/2/9/5/0/1660592_710ed.gif" width="200px"/>
-  <p> Hi, the name is Aleksa Milić 🌲</p>
+  <h3> Hi, the name is Aleksa Milić 🌲</h3>
   <img src="https://img1.picmix.com/output/stamp/normal/2/9/5/0/1660592_710ed.gif" width="200px"/>
-</div>
+</p>
 
 
 
